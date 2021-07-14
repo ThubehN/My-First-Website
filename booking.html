@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+    <!-- we have linked the css styling file-->
+   <link rel="preconnect" href="https://fonts.gstatic.com">
+   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Limelight&family=Londrina+Solid:wght@900&display=swap" rel="stylesheet">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+   <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
+   <script src="reserve.js"></script>
+    <title>BOOKING</title>
+</head>
+<body>
+    <h1 class="space"> The Grand Space reservation</h1>
+         <p class="mini"><a href="index.html" id="inpage">Home</a>/<a href="reservation.html" class="inpage">Reservation</a></p>
+		 <div class="booking-form">
+            <form name="myForm" action="" onsubmit="return validateForm()"  method="post" class="form2"> 
+            <div class="form-booking">
+             <label><i class="fas fa-user"></i></label>
+            <input type="text" class="input-text"  name="fname" placeholder="First Name">
+            <br/>
+            <label><i class="fas fa-phone-square"></i></label>
+            <input type="text" class="input-text" name="pnumber" placeholder="Phone Number" >
+            <br/>
+            <label><i class="fas fa-user-friends"></i></label>
+            <textarea type="text" class="input-text" name="subject" placeholder="Number of guest.."></textarea>
+            <br/>
+            <label><i class="fas fa-couch"></i></label>
+            <textarea type="text" class="input-text textarea-part" name="subject1" placeholder="Seating preference..."></textarea>
+            <br/>
+            <label><i class="fas fa-clock"></i></label>
+            <input type="time" class="input-text" name="email" placeholder="time of booking">
+            <br/>
+            <label><i class="far fa-calendar-alt"></i></label>
+             <input type= "date"  class="input-text">
+             <br/> 
+            <br/>
+           <input type="submit" value="Submit" class="submit">
+           </div>
+        </form>
+        </div>
+        <br/>
+        <br/>
+        <br/>
+    
+    
+    
+</body>
+</html>
