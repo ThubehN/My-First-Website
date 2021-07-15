@@ -132,13 +132,33 @@ h2{
     font-weight: bolder;
 }
 .pic1{
-    margin-left:10%;
-    height:90vh;
+    height:85vh;
+}
+#info03{
+    display: flex;
+    width: 80%;
+    justify-content: center;
+    height: 85vh;
+    margin-bottom:15%;
+}
+.info01{
+    margin: 5%;
+    height:100%
+    
+    
+}
+#info02{
+    color: #878791;
+    font-size: 16px;
+    font-weight:lighter;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+ 
 }
 .footer{
 background: #303036;
 color: #d3d3d3;
-height: 35ss0px;
+height: 350px;
 position: relative;
 } 
 .footer-content{
