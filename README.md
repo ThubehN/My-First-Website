@@ -27,7 +27,7 @@ it is a very informative and adaptable website which allows the user to menoeuvr
  ## Visuals
  Here is a visual representation of the website in the for of screen shots as well as a direct link to the website
  * Live Demo
- ![](https://github.com/ThubehN/My-First-Website/blob/develop/images/Screenshot%20(5).png)
+ ![](https://github.com/ThubehN/My-First-Website/blob/develop/images/Screenshot%20(5).png) ![](https://github.com/ThubehN/My-First-Website/blob/develop/images/Screenshot%20(6).png)
  
  ##
  
