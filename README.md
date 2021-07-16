@@ -43,5 +43,5 @@ it is a very informative and adaptable website which allows the user to menoeuvr
  Give this project a star if you feel it is adequate for a beginner
  
  ## License
- &copy; 2021 Thubelihle Nxumalo
- This project is [MIT]() licensed
+ &copy; 2021 Thubelihle Nxumalo<br/>
+ This project is [MIT](https://github.com/ThubehN/My-First-Website/blob/develop/images/LICENSE) licensed
