@@ -26,11 +26,22 @@ it is a very informative and adaptable website which allows the user to menoeuvr
  
  ## Visuals
  Here is a visual representation of the website in the for of screen shots as well as a direct link to the website
- * Live Demo
+ * [Live Demo]() <br/><br/>
  ![](https://github.com/ThubehN/My-First-Website/blob/develop/images/Screenshot%20(5).png) ![](https://github.com/ThubehN/My-First-Website/blob/develop/images/Screenshot%20(6).png)![](https://github.com/ThubehN/My-First-Website/blob/develop/images/Screenshot%20(8).png)
  
  ## Author
+ The author responsible for this webpage is:
  Thubelihle Nxumalo
  * [Twitter](https://twitter.com/Thubeh_N)
- * [github]()
+ * [github](https://github.com/ThubehN)
  
+ ## Contributing
+ Contributions, issues and feature requests are welcome!<br/>
+ Please feel free to check the [issues page]().
+ 
+ ## Show your support
+ Give this project a star if you feel it is adequate for a beginner
+ 
+ ## License
+ &copy; 2021 Thubelihle Nxumalo
+ This project is [MIT]() licensed
